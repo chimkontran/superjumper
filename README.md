@@ -1,5 +1,4 @@
 Libgdx demo - Superjumper
-====================
 ![superjumper](http://i.imgur.com/HvDWeyh.png)
 
 Super Jumper is a very simple Doodle Jump clone.
@@ -17,3 +16,5 @@ Super Jumper is a very simple Doodle Jump clone.
   * [Intellij IDEA](https://github.com/libgdx/libgdx/wiki/Gradle-and-Intellij-IDEA)
   * [NetBeans](https://github.com/libgdx/libgdx/wiki/Gradle-and-NetBeans)
   * [Commandline|Gradle on the Commandline](https://github.com/libgdx/libgdx/wiki/Gradle-on-the-Commandline)
+# superjumper
+A simple game made with Libgdx
